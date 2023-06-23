@@ -83,7 +83,7 @@ header nav ul li a{
     color: var(--azul-principal);
     font-size: 1.07rem;
     font-family: 'Roboto', sans-serif;
-    font-weight: lighter;
+    font-weight: normal;
 }
 header nav ul .contato{
     border: 1.5px solid var(--azul-principal);
@@ -222,4 +222,8 @@ header .skill{
     justify-content: space-between;
     margin: 0 auto;
     
+}
+
+.sec4{
+    height: 1442px;
 }
